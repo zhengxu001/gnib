@@ -7,7 +7,7 @@ This project is aimed to monitor the available stamp 1G slot every 1.5 seconds, 
 + You need to fill the form in advance.
 
 ### Window
-+ According to history monitor, there are 2 time window: **around 10am - 10.30am** and ** around 3pm **
++ According to history monitor, there are 2 time window: **around 10am - 10.30am** and **around 2.5pm**
 
 ### Implementation Details
 The implementation is based on Ruby only
