@@ -9,5 +9,5 @@ while true
 	puts res.body
 	current_time = Time.new
 	puts "At Time : " + current_time.inspect
-	sleep 2
+	sleep 1.5
 end
