@@ -2,6 +2,13 @@
 
 This project is aimed to monitor the available stamp 1G slot every 1.5 seconds, automatically, which is easy but very useful.
 
+### Appointment Form
++ Url: https://burghquayregistrationoffice.inis.gov.ie/Website/AMSREG/AMSRegWeb.nsf/AppSelect?OpenForm
++ You need to fill the form in advance.
+
+### Window
++ According to history monitor, there are 2 time window: **around 10am - 10.30am** and ** around 3pm **
+
 ### Implementation Details
 The implementation is based on Ruby only
 
