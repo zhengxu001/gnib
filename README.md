@@ -1,6 +1,6 @@
 # Stamp 1G Monitor Script
 
-This project is aimed to monitor the available stamp 1G slot every 1.5 seconds, automatically.
+This project is aimed to monitor the available stamp 1G slot every 1.5 seconds, automatically, which is easy but very useful.
 
 ### Implementation Details
 The implementation is based on Ruby only
