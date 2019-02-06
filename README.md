@@ -17,8 +17,9 @@ You just need to make sure you have [Ruby](https://www.ruby-lang.org/en/) instal
 
 ### Start
 + Go to Gnib folder.
-+ Run `ruby gnib.rb` 
-+ Once there is any available Stamp 1G, you should hear some **bi bi bi** noise.
++ Run `ruby gnib.rb` in the terminal
++ Once there is any available Stamp 1G, you should hear some **bi bi bi** noise on your computer.
++ Once we get any slots we still need to do some manual work to pass the Google Verification code.
 
 ### ToDo
-- [ ] let me know if you have any other requirements.
+- [ ] Auto form filling
